@@ -1,0 +1,2 @@
+iTerm2 -> preferences -> profiles -> keys [select left option key acts as: Esc+]
+iTerm2 -> preferences -> keys [remap your modifier keys]
